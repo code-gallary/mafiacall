@@ -41,7 +41,7 @@
 
   - Code convention:
     - Javascript: [eslint - airbnb](https://github.com/airbnb/javascript#in-the-wild)
-    - Java: [AOSP - google](https://source.android.com/setup/contribute/code-style)
+    - Java/Kotlin(Android): [Android lint](https://developer.android.com/studio/write/lint)
   - Branch rule: [Github flow](https://guides.github.com/introduction/flow/)
     > 예시
     1. **fork한다.**
