@@ -5,6 +5,7 @@
 ## Docs
 <details>
 <summary>펼치기</summary>
+
 - Feature list
 - ERD
 - Skill spec detail
@@ -17,6 +18,7 @@
 ## Features
 <details>
 <summary>펼치기</summary>
+
 ### 필수 구현 기능
 - 인증(호스트 로그인/ 회원가입)
 - 화상회의
