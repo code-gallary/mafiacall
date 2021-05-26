@@ -44,11 +44,11 @@
     - Java: [AOSP - google](https://source.android.com/setup/contribute/code-style)
   - Branch rule: [Github flow](https://guides.github.com/introduction/flow/)
     > 예시
-    1. pull이나 clone한다.
-    2. branch 생성한다.
-    3. 테스트 작성하고 개발하고 작은 단위 커밋한다.
-    4. 완료되고 리뷰가 필요하다면 PR을 한다.
-    5. Tool 검증과 리뷰가 끝나면 main에 merge한다.
+    1. **fork한다.**
+    2. 내 레파지토리에서 clone한다.
+    3. 테스트 작성하고 개발하고 작은 단위 커밋후 푸쉬한다.
+    4. 완료되고 PR을 한다.
+    5. Tool 검증과 리뷰가 끝나면 main repo의 main branch에 merge한다.
    
 </details>
 
