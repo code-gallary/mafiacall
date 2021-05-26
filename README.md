@@ -44,11 +44,12 @@
     - Java/Kotlin(Android): [Android lint](https://developer.android.com/studio/write/lint)
   - Branch rule: [Github flow](https://guides.github.com/introduction/flow/)
     > 예시
-    1) **fork한다.**
-    2) 내 레파지토리에서 clone한다.
-    3) 테스트 작성하고 개발하고 작은 단위 커밋후 푸쉬한다.
-    4) 완료되고 PR을 한다.
-    5) Tool 검증과 리뷰가 끝나면 main repo의 main branch에 merge한다.
+    1. **fork한다.**
+    2. 내 repo에서 clone한다.
+    3. test 작성하고 개발하고 작은 단위 커밋한다.
+    4. 내 repo에 푸쉬한다.
+    5. 완료하고 내 repo에서 메인 repo에 PR을 한다.
+    6. Tool 검증과 리뷰가 끝나면 main repo의 main branch에 merge한다.
    
 </details>
 
