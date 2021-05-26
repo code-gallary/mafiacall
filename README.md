@@ -15,10 +15,10 @@
 - Rules 
   - Issue based development
     > 매 주 무엇을 할 것인가 무조건 공유
-    - 1. 이슈 작성은 전주/전날 미리 작성
-    - 2. 매일 이슈 변동 및 작업 일정 공유
-    - 3. 질문도 이슈로 태그 걸어서 추가
-    - 4. 이슈 등록 시 프로젝트에 추가하기
+    1. 이슈 작성은 전주/전날 미리 작성
+    2. 매일 이슈 변동 및 작업 일정 공유
+    3. 질문도 이슈로 태그 걸어서 추가
+    4. 이슈 등록 시 프로젝트에 추가하기
      
   - Commit convention:
     ```
@@ -44,11 +44,11 @@
     - Java/Kotlin(Android): [Android lint](https://developer.android.com/studio/write/lint)
   - Branch rule: [Github flow](https://guides.github.com/introduction/flow/)
     > 예시
-    - 1. **fork한다.**
-    - 2. 내 레파지토리에서 clone한다.
-    - 3. 테스트 작성하고 개발하고 작은 단위 커밋후 푸쉬한다.
-    - 4. 완료되고 PR을 한다.
-    - 5. Tool 검증과 리뷰가 끝나면 main repo의 main branch에 merge한다.
+    1) **fork한다.**
+    2) 내 레파지토리에서 clone한다.
+    3) 테스트 작성하고 개발하고 작은 단위 커밋후 푸쉬한다.
+    4) 완료되고 PR을 한다.
+    5) Tool 검증과 리뷰가 끝나면 main repo의 main branch에 merge한다.
    
 </details>
 
