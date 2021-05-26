@@ -17,7 +17,8 @@
 
 ### 이슈
 해당 작업 관련 이슈를 태그해주세요.
-- `#1`
+[참고](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/linking-a-pull-request-to-an-issue)
 - `Closes #10`
+- `#1`
 - `Fixes octo-org/octo-repo#100`
 - `Resolves #10, resolves #123, resolves octo-org/octo-repo#100`
