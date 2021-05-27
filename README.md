@@ -49,7 +49,9 @@
     3. test 작성하고 개발하고 작은 단위 커밋한다.
     4. 내 repo에 푸쉬한다.
     5. 완료하고 내 repo에서 메인 repo에 PR을 한다.
-    6. Tool 검증과 리뷰가 끝나면 main repo의 main branch에 merge한다.
+    6. CI 파이프라인 작동(컴파일, 빌드, 테스트)
+    7. 리뷰어들은 PR 알림을 받고 PullRequest의 File changed(1) 탭에서 변경사항 확인 후 Review changes에서 Comment/Approves/Requestchanges 중 하나 선택
+    8. 리뷰어 만장일치로 Approves가 완료되면 Merge repo/branch
    
 </details>
 
